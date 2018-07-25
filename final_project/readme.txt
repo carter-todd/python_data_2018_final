@@ -1,14 +1,14 @@
-This is a final project for the summer 2018 session of the Code Louisville Python for Data course.  This project examines the preices of avocados in Louisville and how they compare to different regions.
+This is a final project for the summer 2018 session of the Code Louisville Python for Data course.  This project examines the prices of avocados in Louisville and how they compare to different regions.
 
 Questions that will be answered:
     -What is the average price of an avocado in Louisville?  
-    -How does this price compare with the most expensive and least expensive regions?
+    -How does this price compare with the most expensive and least expensive regions in the United States?
 
 I will use a database downloaded from Kaggle.com that contains avocado prices for different regions during the years 2015, 2016, 2017 through the first half of 2018.
 
 How I answered:
     -I executed python code and SQL lite queries in a jupyter notebook using the database I downloaded from Kaggle.com. 
-    -I executed SQL queries to determine the average prices, minimum prices and maximum prices of avocados in Louisville as well the most expensive and least expensive regions.
+    -I executed SQL queries to determine the average prices, minimum prices and maximum prices of avocados in Louisville as well the most expensive and least expensive regions in the United States.
     -I used matplotlib bar plots to illustrate my findings.
 
 Dependencies:
@@ -21,9 +21,10 @@ Included in this download:
     -This readme.txt file that contains instructions for executing this code in a jupyter notebook.
     -avocado.db file
     -avocado.csv file
-    -a jupyter notebook with all the executed code with my comments.
+    -a jupyter notebook with all the executed code and my comments.
 
 Let's Begin!
+######### It will work better by copying and pasting from the clean draft!#############
 
 Cell by cell instructions:
     1.  Open a new jupyter notebook and enter the initial imports:
